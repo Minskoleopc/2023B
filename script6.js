@@ -88,7 +88,5 @@ a > b ? console.log('a is greater'):console.log('b is greater')
 // program 5
 
 let age = 17
-
 let q1 = age >= 18 ? "can drive":"cannot drive"
-
 console.log(q1)

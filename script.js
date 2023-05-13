@@ -40,7 +40,6 @@ console.log(s/t)
 console.log(s%t)
 
 // 10 pair - 50 lines
-
 function Calculator(x,y){
     console.log(x+y)
     console.log(x-y)

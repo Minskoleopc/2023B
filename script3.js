@@ -79,7 +79,7 @@ let CalB = function(x,y){
 let a3 = CalB(34,5)
 console.log(a3)
 
-// arroe function
+// arrow function
 
 let CalC = (x,y)=>{
     return x+y 
