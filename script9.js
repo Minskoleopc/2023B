@@ -68,8 +68,6 @@ console.log(5)
 //     console.log(i)
 // }
 
-
-
 // for(intialization ; conditionCheck ; increment/decrement){
 //     // statements
 // }
@@ -88,7 +86,6 @@ for(let i = 1 ; i <= 5 ; i++){ // 2 // 3 // 4 // 5 // 6
 }
 
 // print 5  to 1 
-
 for(let i = 5 ; i >= 1 ; i--){ // 4 // 3 // 2 //1 // 0
     console.log(i) // 5 // 4 // 3 // 2 // 1
 }
